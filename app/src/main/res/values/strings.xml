@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">purpleivvy</string>
+    <string name="title">Artwork Title</string>
+    <string name="short_description">Description of the Artwork</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="front_page_icon">Front page icon</string>
+    <string name="front_page_title">\@purpleivvy</string>
+    <string name="front_page_button_text">Enter, Immerse, Explore</string>
+    <string name="front_page_bg_content_desc">Background image of the start page</string>
+    <string name="front_page_heading">Embark on an Artistic Adventure\!</string>
+
+    <string name="art1_title">Wanderer</string>
+    <string name="art1_description">The Wanderer in Genshin Impact is a courageous and determined
+        protagonist exploring the vibrant realm of Teyvat.</string>
+    <string name="art1_imageContentDescription">Wanderer from Genshin Impact game</string>
+
+    <string name="art2_title">Makima</string>
+    <string name="art2_description">Makima is a compelling character from the manga series
+        "Chainsaw Man." She possesses a mysterious and manipulative nature as the leader of
+        Public Safety Devil Hunters.</string>
+    <string name="art2_imageContentDescription">Makima from the series Chainsaw Man</string>
+
+    <string name="art3_title">A Dragon</string>
+    <string name="art3_description">This drawing from Twenty One Pilots is a symbolic
+        representation of resilience and overcoming inner struggles. It embodies the band\'s
+        message of facing personal demons and transforming them into sources of strength.</string>
+    <string name="art3_imageContentDescription">Dragon Icon from Twenty One Pilots</string>
+
+    <string name="art4_title">An Original Character</string>
+    <string name="art4_description">With a determined gaze, she takes hold of the crimson ribbon,
+        a symbol of constraints. As her blade slices through it, she liberates herself, embracing
+        newfound freedom.</string>
+    <string name="art4_imageContentDescription">A girl cutting a red ribbon</string>
+
+    <string name="art5_title">Skyscraper Lovebirds</string>
+    <string name="art5_description">Perched atop the skyscraper\'s pinnacle, their legs dangle
+        fearlessly, defying gravity. Amidst the urban chaos, they find solace in each other\'s
+        presence, their intertwined souls symbolizing an unbreakable bond fueled by
+        boundless love.</string>
+    <string name="art5_imageContentDescription">Two lovers sitting on the top of a
+        skyscraper</string>
+
+    <string name="art6_title">Rooted Serenity: Blooming Love</string>
+    <string name="art6_description">Nature\'s embrace, a lady blooms adorned with vibrant foliage,
+        her heart aglow with azure light, symbolizing deep connection and inner growth.</string>
+    <string name="art6_imageContentDescription">A young lady covered with leaves and
+        flowers.</string>
+
+    <string name="art7_title">Tighnari</string>
+    <string name="art7_description">Tighnari - A young researcher well-versed in botany who
+        currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with
+        a warm heart - and a dab hand at guiding even the dullest of pupils.</string>
+    <string name="art7_imageContentDescription">Tighnari from Genshin Impact</string>
+
+    <string name="art8_title">Cometary Symphony</string>
+    <string name="art8_description">Ethereal comets intertwine in a mesmerizing artwork,
+        capturing the fleeting beauty and destined encounters of the celestial tapestry.</string>
+    <string name="art8_imageContentDescription">Two Comets in sky from the anime "Your
+        Name"</string>
+
+    <string name="art9_title">Brendon Urie: The Melodic Monarch</string>
+    <string name="art9_description">Brendon from Panic at the Disco wears a majestic crown,
+        embodying his musical reign. The band\'s logo gleams as a butterfly flutters nearby,
+        symbolizing metamorphosis and the transformative artistry of the band.</string>
+    <string name="art9_imageContentDescription">Brendon from Panic At The Disco</string>
+
+    <string name="art10_title">Suffocating Shadows</string>
+    <string name="art10_description">In a moment of vulnerability, the young girl\'s desperate
+        cry echoes through the closing gate. As darkness engulfs her, a slender beam of light
+        peeks through the slightly ajar door, symbolizing hope\'s delicate persistence amidst
+        confinement.</string>
+    <string name="art10_imageContentDescription">A girl peeking behind the closing door</string>
+
+    <string name="art11_title">Blossoming Reflections</string>
+    <string name="art11_description">Violet Evergarden amidst blossoms, exudes depth and
+        vulnerability. Her enigmatic gaze symbolizes the delicate balance between strength and
+        longing, amidst the ethereal beauty of petals.</string>
+    <string name="art11_imageContentDescription">MC from the anime Violet Evergarden</string>
+
+    <string name="art12_title">Lost Whispers</string>
+    <string name="art12_description">In the heart of a lush forest, the protagonist of
+        "Ousama Ranking" lies gently embraced by nature\'s embrace. Through vulnerability and
+        introspection, they find solace and the seeds of resilience, ready to bloom.</string>
+    <string name="art12_imageContentDescription">MC from the anime Ousama Ranking</string>
+
+    <string name="art13_title">Microcosmic Oasis</string>
+    <string name="art13_description">Within the cup\'s depths, a miniature world unfolds—a serene
+        pond brimming with life. The lotus blossoms symbolize resilience, reminding us that
+        even within confined spaces, beauty and tranquility can flourish.</string>
+    <string name="art13_imageContentDescription">A cup which contains a small pond</string>
+
+    <string name="art14_title">Illuminated Charm of Gojo</string>
+    <string name="art14_description">Gojo from Jujutsu Kaisen wears circular black glasses,
+        his infectious smile illuminated by the warm embrace of sunlight. The contrasting
+        hues reflect his enigmatic charisma and the brilliance he brings to the world.</string>
+    <string name="art14_imageContentDescription">Gojo Satoru from JJK Anime</string>
+
+    <string name="art15_title">TØP</string>
+    <string name="art15_description">Twenty One Pilots depicted in this vibrant art piece,
+        contrasting their introspective lyrics with a burst of vivid colors. Their music, like a
+        kaleidoscope, blends diverse emotions into a harmonious symphony.</string>
+    <string name="art15_imageContentDescription">Twenty One Pilots</string>
+
+    <string name="art16_title">Whimsical Abode from Spirited Away</string>
+    <string name="art16_description">A whimsical, cartoon-style portrayal of a traditional Japanese
+        home from "Spirited Away," encapsulating the enchanting magic of Studio
+        Ghibli\'s imaginative realm.</string>
+    <string name="art16_imageContentDescription">A traditional Japanese home from "Spirited
+        Away"</string>
+
+    <string name="art17_title">Nail-Kissed Roses</string>
+    <string name="art17_description">Nobara from Jujutsu Kaisen, wielding lethal precision,
+        merges beauty and danger. Delicate roses adorn her face, epitomizing a captivating
+        blend of fury and grace.</string>
+    <string name="art17_imageContentDescription">Nobara from Jujutsu Kaisen</string>
+</resources>
